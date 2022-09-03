@@ -3,11 +3,11 @@
 
 <hr>
 
-<h3>🚀 Aesthetic Digital Clock </h3>
-<h2>🚀 Minimalistic Design </h3>
+<h2>🚀 Aesthetic Digital Clock </h2>
+<h2>🚀 Minimalistic Design </h2>
 <h2>🚀 Available for everyone.</h2>
-<h3>🚀 Feel free to update and add new functionalities. </h3>
-<h3>🚀 Mobile Responsive soon.</h3>
+<h2>🚀 Feel free to update and add new functionalities. </h2>
+<h2>🚀 Mobile Responsive soon.</h2>
 
 <hr>
 
