@@ -12,4 +12,4 @@
 <hr>
 
 <h2>✨ Screenshots:</h2>
-![img](https://github.com/Muhammad-Patel/Digital-Clock-Project-2/blob/main/Screenshot%20(1).png)
+![img](https://github.com/Muhammad-Patel/Digital-Clock-Project-2/blob/main/Screenshot%20(1).png?raw=true)
