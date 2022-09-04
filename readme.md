@@ -1,5 +1,6 @@
 # Simple Digital Clock 
 <h2> Link for deployed version: </h2>
+https://minimal-digital-clock.netlify.app/
 
 <hr>
 
