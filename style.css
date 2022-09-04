@@ -70,9 +70,6 @@ h1{
 }
 
 @media (max-width: 550px){
-    body{
-        background: url(https://unsplash.com/s/photos/wall-background);
-    }
     .time{
         display: flex;
         flex-direction: column;
@@ -89,14 +86,14 @@ h1{
         margin-bottom: 1.5rem;
     }
     h1{
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
     .time-box-number{
         font-size: 2rem;
         height: 5rem;
     }
     .time-box-unit{
-        font-size: 0.7rem;
+        font-size: 0.9rem;
         padding-top: 0.7rem;
         padding-bottom: 0.7rem;
     }
