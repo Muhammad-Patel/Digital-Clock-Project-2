@@ -8,7 +8,7 @@ https://minimal-digital-clock.netlify.app/
 <h2>🚀 Minimalistic Design </h2>
 <h2>🚀 Available for everyone.</h2>
 <h2>🚀 Feel free to update and add new functionalities. </h2>
-<h2>🚀 Mobile Responsive soon.</h2>
+<h2>🚀 Mobile Responsive</h2>
 
 <hr>
 
